@@ -1,0 +1,51 @@
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\bin\Debug\Otel Uygulaması.exe.config
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\bin\Debug\Otel Uygulaması.exe
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\bin\Debug\Otel Uygulaması.pdb
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel Uygulaması.csprojAssemblyReference.cache
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.Properties.Resources.resources
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel Uygulaması.csproj.GenerateResource.cache
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel Uygulaması.exe
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel Uygulaması.pdb
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.YeniMusteri.resources
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.Anaform.resources
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.frmadmingiris.resources
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.FrmOdalar.resources
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.FrmMusteriler.resources
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.frmgelirgider.resources
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.FrmUrunler.resources
+C:\Users\Ali Güral Lojman\source\repos\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.Satislar.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\bin\Debug\Otel Uygulaması.exe.config
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\bin\Debug\Otel Uygulaması.exe
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\bin\Debug\Otel Uygulaması.pdb
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel Uygulaması.csprojAssemblyReference.cache
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.Anaform.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.frmadmingiris.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.frmgelirgider.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.FrmMusteriler.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.FrmOdalar.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.FrmUrunler.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.Satislar.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.YeniMusteri.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel_Uygulaması.Properties.Resources.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel Uygulaması.csproj.GenerateResource.cache
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel Uygulaması.exe
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\Otel Uygulaması\obj\Debug\Otel Uygulaması.pdb
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\bin\Debug\Otel Uygulaması.exe.config
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\bin\Debug\Otel Uygulaması.exe
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel Uygulaması.csprojAssemblyReference.cache
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel_Uygulaması.Anaform.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel_Uygulaması.frmadmingiris.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel_Uygulaması.frmgelirgider.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel_Uygulaması.FrmMusteriler.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel_Uygulaması.FrmOdalar.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel_Uygulaması.FrmUrunler.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel_Uygulaması.YeniMusteri.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel_Uygulaması.Properties.Resources.resources
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel Uygulaması.csproj.GenerateResource.cache
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel Uygulaması.exe
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel Uygulaması.pdb
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\bin\Debug\Otel Uygulaması.pdb
+C:\Users\Ali Güral Lojman\Desktop\Otel Uygulaması\obj\Debug\Otel_Uygulaması.Satislar.resources

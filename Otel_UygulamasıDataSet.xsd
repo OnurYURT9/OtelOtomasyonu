@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Otel_UygulamasıDataSet" targetNamespace="http://tempuri.org/Otel_UygulamasıDataSet.xsd" xmlns:mstns="http://tempuri.org/Otel_UygulamasıDataSet.xsd" xmlns="http://tempuri.org/Otel_UygulamasıDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Otel_UygulamasıConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Otel_UygulamasıConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Otel_Uygulaması.Properties.Settings.GlobalReference.Default.Otel_UygulamasıConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SatislarTableAdapter" GeneratorDataComponentClassName="SatislarTableAdapter" Name="Satislar" UserDataComponentName="SatislarTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Otel_UygulamasıConnectionString (Settings)" DbObjectName="[Otel Uygulaması].dbo.Satislar" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT urun_adi FROM dbo.Satislar</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="urun_adi" DataSetColumn="urun_adi" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Otel_UygulamasıDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Otel_UygulamasıDataSet" msprop:Generator_UserDSName="Otel_UygulamasıDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Satislar" msprop:Generator_TableClassName="SatislarDataTable" msprop:Generator_TableVarName="tableSatislar" msprop:Generator_TablePropName="Satislar" msprop:Generator_RowDeletingName="SatislarRowDeleting" msprop:Generator_RowChangingName="SatislarRowChanging" msprop:Generator_RowEvHandlerName="SatislarRowChangeEventHandler" msprop:Generator_RowDeletedName="SatislarRowDeleted" msprop:Generator_UserTableName="Satislar" msprop:Generator_RowChangedName="SatislarRowChanged" msprop:Generator_RowEvArgName="SatislarRowChangeEvent" msprop:Generator_RowClassName="SatislarRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="urun_adi" msprop:Generator_ColumnVarNameInTable="columnurun_adi" msprop:Generator_ColumnPropNameInRow="urun_adi" msprop:Generator_ColumnPropNameInTable="urun_adiColumn" msprop:Generator_UserColumnName="urun_adi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
