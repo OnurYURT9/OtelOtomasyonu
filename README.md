@@ -22,11 +22,9 @@ Hakkımızda->ilgilendirici message box ile yaptırılır.
 
 ![3](https://user-images.githubusercontent.com/57957917/131233072-f3224e72-80a2-472c-b69c-52a76d280fa1.png)
 
-Burada görüldüğü üzere yeni müşteri kaydı oluşturuldu. Yeşil renkli butonlar boş odaları gösterir ve tıklanabilir özelliktedir, kırmızı renkli odalar ise dolu odaları göstermektedir ve tıklamaz özelliği verilmiştir. Textboxlar boş bırakılınca uyarı verir. Aynı zamanda 103 nolu odaya kayıt yaptığımız için tekrar çalıştırdığımızda 103 nolu oda butonu kırmızı renge döndü ve seçilemez hale geldi.![8](https://user-images.githubusercontent.com/57957917/131233239-def71c7e-662b-4422-8feb-0bf56d78a820.png)
-![8](https://user-images.githubusercontent.com/57957917/131233243-d6d756fc-3857-46fb-a072-2ff2e6e037ba.png)
+Burada görüldüğü üzere yeni müşteri kaydı oluşturuldu. Yeşil renkli butonlar boş odaları gösterir ve tıklanabilir özelliktedir, kırmızı renkli odalar ise dolu odaları göstermektedir ve tıklamaz özelliği verilmiştir. Textboxlar boş bırakılınca uyarı verir. Aynı zamanda 103 nolu odaya kayıt yaptığımız için tekrar çalıştırdığımızda 103 nolu oda butonu kırmızı renge döndü ve seçilemez hale geldi.
 
-
-![4](https://user-images.githubusercontent.com/57957917/131233103-126343c7-ee82-48ba-9274-75a2558f8906.png)
+![1](https://user-images.githubusercontent.com/57957917/131251870-6583a571-21e6-46b8-8a8c-e663661c5979.png)
 
 Odaların durumu fomunda da hangi odada hangi kişinin kaldığı bilgisi yer alıyor.
 
